@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "6",
+      "caption": "sdfs",
+      "image_url": "https://i.ibb.co/qgVYxTh/man-face.png"
+    },
+    {
+      "id": "9",
+      "caption": "htygae",
+      "image_url": "https://i.ibb.co/48Z5bBX/add-money-to-wallet.png"
+    },
+    {
+      "id": "1",
+      "caption": "hello",
+      "image_url": "https://i.ibb.co/5jYPRjC/logo-1.png"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
